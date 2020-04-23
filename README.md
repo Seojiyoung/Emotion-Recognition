@@ -5,6 +5,10 @@ Facial Expression Recognition(FER) 2013에서 우수한 정확도를 기록한 �
 Tensorflow 기반으로 짜여진 CNN네트워크를 사용
 <br>
 
+코드 설명
+-
+https://jjeong-ee.tistory.com/2?category=862764
+
 필요한 라이브러리 버전
 -
 - Python (>= 3.3)
